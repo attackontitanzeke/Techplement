@@ -1,6 +1,7 @@
 # Techplement Internship Project Task 1
 
 Quote of the Day Web App
+
 A simple web application that fetches and displays a random quote of the day, allows users to save their favorite quotes, and provides a search feature to find quotes by author.
 
 🚀 Features
